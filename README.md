@@ -22,7 +22,7 @@ Welcome to my GitHub profile! A passionate Full Stack Developer since early 2025
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 
 ### CMS
-[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#) [![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)](#) [![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](#)
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#) [![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?logo=drupal&logoColor=white)](#) [![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?logo=adobe&logoColor=white)](#)
 
 ---
 
